@@ -1,5 +1,5 @@
-the app was writen in Python2.6 using PyOpenGL and PyQt4.5 
-in the dist.rar there is a compiled version for Windows 
+the app was writen in Python2.6 using PyOpenGL and PyQt4.5
+in the dist.rar there is a compiled version for Windows
 extract it and double click on 'main.exe' to run the app.
 
 controls:
